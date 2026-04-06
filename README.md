@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://pbs.twimg.com/profile_banners/1670932078039384065/1694744987/1500x500" />
 &nbsp;&nbsp;&nbsp;
 
-# Olá, eu sou o Davi Ramos - [!Portifólio(https://google.com)]
+# Olá, eu sou o Davi Ramos - [Portifólio](https://google.com)
 
 Sou apaixonado por tecnologia, design e conhecimento em geral.
 
@@ -14,16 +14,16 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens & Web
-[![Linguagens & Web](https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,python,cs,bootstrap,tailwind,vue)](https://skillicons.dev)
+[![Linguagens & Web](https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,python,cs,bootstrap,tailwind,vue)]
 
 ### Banco de Dados
-[![Banco de Dados](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![Banco de Dados](https://skillicons.dev/icons?i=mysql,mongodb)]
 
 ### Ferramentas
-[![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode)]
 
 ### Design
-[![Design](https://skillicons.dev/icons?i=figma,ps,ai,ae,pr)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,ps,ai,ae,pr)]
 
 ---
 
