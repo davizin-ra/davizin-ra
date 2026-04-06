@@ -29,5 +29,5 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ### 📫 Vamos conversar?
 
-- 💼 [opedromedeiros](https://www.linkedin.com/in/daviratt/)
+- 💼 [daviratt](https://www.linkedin.com/in/daviratt/)
 - 📧 [daviramos1703@gmail.com](mailto:daviramos1703@gmail.com)
