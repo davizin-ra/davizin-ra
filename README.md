@@ -20,7 +20,7 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 ![Banco de Dados](https://skillicons.dev/icons?i=mysql,mongodb)
 
 ### Ferramentas
-![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode)
+![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,pycharm)
 
 ### Design
 ![Design](https://skillicons.dev/icons?i=figma,ps,ai,ae,pr)
