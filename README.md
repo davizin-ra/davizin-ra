@@ -11,9 +11,8 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-### Design
 ![Design](https://skillicons.dev/icons?i=windows,linux,kali)
 
 ### Linguagens & Web
