@@ -13,6 +13,9 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ## 🛠️ Tecnologias e Ferramentas
 
+### Design
+![Design](https://skillicons.dev/icons?i=windows)
+
 ### Linguagens & Web
 ![Linguagens & Web](https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,python,cs,bootstrap,tailwind,vue)
 
