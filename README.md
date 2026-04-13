@@ -13,18 +13,19 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ## Tecnologias e Ferramentas
 
+#### SO
 ![Design](https://skillicons.dev/icons?i=windows,linux,kali)
 
-### Linguagens & Web
+#### Linguagens & Web
 ![Linguagens & Web](https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,python,cs,bootstrap,tailwind,vue)
 
-### Banco de Dados
+#### Banco de Dados
 ![Banco de Dados](https://skillicons.dev/icons?i=mysql,mongodb)
 
-### Ferramentas
+#### Ferramentas
 ![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,arduino,docker)
 
-### Design
+#### Design
 ![Design](https://skillicons.dev/icons?i=figma,ps,ai,ae,pr)
 
 ---
