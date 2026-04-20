@@ -30,12 +30,19 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ---
 
-![davizin-ra's Stats](https://github-readme-stats.vercel.app/api?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![davizin-ra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 
 ---
 
-### 📫 Vamos conversar?
+## Vamos conversar?
 
-- 💼 [daviratt](https://www.linkedin.com/in/daviratt/)
-- 📧 [daviramos1703@gmail.com](mailto:daviramos1703@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daviratt/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:daviramos1703@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/davs_ra)
+
+</div>
