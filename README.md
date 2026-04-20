@@ -30,7 +30,7 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ---
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
@@ -39,7 +39,7 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ## Vamos conversar?
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daviratt/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:daviramos1703@gmail.com)
