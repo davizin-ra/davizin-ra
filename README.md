@@ -31,6 +31,7 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davizin-ra\&layout=compact&theme=dark)
+![davizin-ra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=davizin-ra&theme=dark&hide_border=true)
 
 ---
 
