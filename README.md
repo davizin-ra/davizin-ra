@@ -30,10 +30,17 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&count_private=true" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizin-ra&theme=dark&show_icons=true&hide_border=true&layout=compact" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
