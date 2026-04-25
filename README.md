@@ -13,11 +13,11 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ## Tecnologias e Ferramentas
 
-#### SO
-![Design](https://skillicons.dev/icons?i=windows,linux,kali)
+#### FrontEnd
+![Linguagens & Web](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,vue)
 
-#### Linguagens & Web
-![Linguagens & Web](https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,python,cs,bootstrap,tailwind,vue)
+#### BackEnd
+![Linguagens & Web](https://skillicons.dev/icons?i=php,nodejs,python,cs)
 
 #### Banco de Dados
 ![Banco de Dados](https://skillicons.dev/icons?i=mysql,mongodb)
@@ -27,6 +27,9 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 #### Design
 ![Design](https://skillicons.dev/icons?i=figma,ps,ai,ae,pr)
+
+#### SO
+![Design](https://skillicons.dev/icons?i=windows,linux,kali)
 
 ---
 
