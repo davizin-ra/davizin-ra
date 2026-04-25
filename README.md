@@ -3,9 +3,6 @@
 
 # Olá, eu sou o Davi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daviratt)
-<img src="https://komarev.com/ghpvc/?username=davizin-ra&style=for-the-badge&color=555555&label=VIEWERS" width="105"/>
-
 Sou apaixonado por tecnologia, design e conhecimento em geral.
 
 Atualmente, estou mergulhado no ecossistema FrontEnd, usando tecnologias como **Vue.JS**, **React.js** e no universo de **Segurança da Informação**, desenvolvendo soluções que unem funcionabilidade com interface.
