@@ -5,7 +5,7 @@
 
 Sou apaixonado por tecnologia, design e conhecimento em geral.
 
-Atualmente, estou mergulhado no ecossistema FrontEnd, usando tecnologias como **Vue.JS**, **React.js** e no universo de **Segurança da Informação**, desenvolvendo soluções que unem funcionabilidade com interface.
+Atualmente, estou mergulhado no ecossistema FrontEnd, usando tecnologias como **Vue.js**, **React.js** e no universo de **Segurança da Informação**, desenvolvendo soluções que unem funcionabilidade com interface.
 
 Neste perfil, você encontrará meus projetos autorais, acadêmicos e experimentos práticos de estudo.
 
