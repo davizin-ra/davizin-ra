@@ -14,7 +14,7 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 ## Tecnologias e Ferramentas
 
 #### FrontEnd
-![Linguagens & Web](https://skillicons.dev/icons?i=,js,ts,react,bootstrap,tailwind,vue)
+![Linguagens & Web](https://skillicons.dev/icons?i=js,ts,react,bootstrap,tailwind,vue)
 
 #### BackEnd
 ![Linguagens & Web](https://skillicons.dev/icons?i=php,nodejs,python,cs)
