@@ -13,23 +13,17 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 
 ## Tecnologias e Ferramentas
 
-#### FrontEnd
-![Linguagens & Web](https://skillicons.dev/icons?i=js,ts,react,bootstrap,tailwind,vue)
+#### FrontEnd / Design
+![Linguagens & Web](https://skillicons.dev/icons?i=js,ts,ai,ae,figma,react,vue,tailwind)
 
 #### BackEnd
-![Linguagens & Web](https://skillicons.dev/icons?i=php,nodejs,python,cs)
+![Linguagens & Web](https://skillicons.dev/icons?i=cs,php,nodejs)
 
 #### Banco de Dados
-![Banco de Dados](https://skillicons.dev/icons?i=mysql,mongodb)
+![Banco de Dados](https://skillicons.dev/icons?i=mongodb,mysql)
 
-#### Ferramentas
-![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,docker)
-
-#### Design
-![Design](https://skillicons.dev/icons?i=figma,ps,ai,ae,pr)
-
-#### SO
-![Design](https://skillicons.dev/icons?i=windows,linux,kali)
+#### Cloud e ambientação
+![Nuvem](https://skillicons.dev/icons?i=git,docker,linux,azure)
 
 ---
 
@@ -38,7 +32,7 @@ Neste perfil, você encontrará meus projetos autorais, acadêmicos e experiment
 <div>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daviratt/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:daviramos1703@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/davs_ra)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:daviramos1703@gmail.com)
 
 </div>
